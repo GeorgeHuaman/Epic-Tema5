@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4359367783777810887}
   - component: {fileID: 4359367783777810884}
   m_Layer: 0
-  m_Name: Mesa de trabajo 1 (1)
+  m_Name: EyenBalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -104,7 +104,7 @@ GameObject:
   - component: {fileID: 4359367783823413680}
   - component: {fileID: 4359367783823413682}
   m_Layer: 0
-  m_Name: Mesa de trabajo 8 (1)
+  m_Name: VirusLetal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -166,12 +166,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: ee6456147d3dc8a48942d4713f1904e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7f82cf846c0998d4abf041dcd42224a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.13, y: 7.58}
+  m_Size: {x: 8.93, y: 3.18}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -289,7 +289,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 600.6091, y: 742.6782}
+  m_SizeDelta: {x: 1325.686, y: 745.698}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367783847357157
 CanvasRenderer:
@@ -319,7 +319,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a2ae0f411b4a8e4a9d330b508529547, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3320212868209994ca1fd7d64c47d1b3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -342,7 +342,7 @@ GameObject:
   - component: {fileID: 4359367784238592431}
   - component: {fileID: 4359367784238592417}
   m_Layer: 0
-  m_Name: Mesa de trabajo 7
+  m_Name: Tema 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -404,12 +404,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0f3ebf86eebe16042b3a052dc2a8e0e0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 586bc89cb32ab3f4db95da1f1fba32e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.14, y: 7.58}
+  m_Size: {x: 10.24, y: 6.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -527,7 +527,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 629.2161, y: 778.0518}
+  m_SizeDelta: {x: 1358.85, y: 764.353}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784274748248
 CanvasRenderer:
@@ -557,7 +557,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c96bf1f87b2d10f409c27a9573dc4141, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33f104bf4ccb60f45824cb47218157f7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -580,7 +580,7 @@ GameObject:
   - component: {fileID: 4359367784329079200}
   - component: {fileID: 4359367784329079201}
   m_Layer: 0
-  m_Name: Mesa de trabajo 3 (1)
+  m_Name: Freemiun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -671,7 +671,7 @@ GameObject:
   - component: {fileID: 4359367784347602707}
   - component: {fileID: 4359367784347602704}
   m_Layer: 0
-  m_Name: El Burro y el Pozo
+  m_Name: Cola Larga
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -785,7 +785,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 627.6978, y: 774.9102}
+  m_SizeDelta: {x: 1270.07, y: 764.026}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784366360983
 CanvasRenderer:
@@ -815,7 +815,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0f3ebf86eebe16042b3a052dc2a8e0e0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 586bc89cb32ab3f4db95da1f1fba32e1, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -861,7 +861,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 624.3291, y: 770.7516}
+  m_SizeDelta: {x: 1357.78, y: 763.751}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784373292784
 CanvasRenderer:
@@ -891,7 +891,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 302f581662d83c044b01eea00c83ffd6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 348b88450c1cdaf4881a2e509557c769, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -914,7 +914,7 @@ GameObject:
   - component: {fileID: 4359367784381268963}
   - component: {fileID: 4359367784381268960}
   m_Layer: 0
-  m_Name: Artboard 1 (3)
+  m_Name: "Afiliaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1028,7 +1028,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 995.6597, y: 753.6499}
+  m_SizeDelta: {x: 1338.88, y: 753.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784443880408
 CanvasRenderer:
@@ -1058,7 +1058,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: de14311dd312db849b42fb148e9ab81d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d5519ee659ced8341b4560994fff89bc, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1081,7 +1081,7 @@ GameObject:
   - component: {fileID: 4359367784466031737}
   - component: {fileID: 4359367784466031718}
   m_Layer: 0
-  m_Name: Mesa de trabajo 6
+  m_Name: "Suscripci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1195,7 +1195,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1144.6648, y: 809.7963}
+  m_SizeDelta: {x: 1351.718, y: 760.341}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784565280705
 CanvasRenderer:
@@ -1225,7 +1225,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: fb358990c4b4e1e45a22e2cdf8e53ff0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6909808bfa7f57147ac0baf62f9bf269, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1248,7 +1248,7 @@ GameObject:
   - component: {fileID: 4359367784571051367}
   - component: {fileID: 4359367784571051364}
   m_Layer: 0
-  m_Name: Mesa de trabajo 5
+  m_Name: Productos Virtuales
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1362,7 +1362,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 753.8259, y: 753.8259}
+  m_SizeDelta: {x: 1364.199, y: 767.362}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784640259764
 CanvasRenderer:
@@ -1392,7 +1392,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a349e3a99d4659a4682ffcf55b357351, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 738ea822103a699428baeacd52907107, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1415,7 +1415,7 @@ GameObject:
   - component: {fileID: 4359367784693884376}
   - component: {fileID: 4359367784693884378}
   m_Layer: 0
-  m_Name: Mesa de trabajo 6
+  m_Name: "Suscripci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1477,12 +1477,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0a355c1638fce8a4c85fda87fd6fed90, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f6f23764af26594a93d99bb77337627, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.13, y: 7.58}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1600,7 +1600,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 623.5953, y: 771.1016}
+  m_SizeDelta: {x: 1463.583, y: 521.186}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784711698610
 CanvasRenderer:
@@ -1630,7 +1630,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ee6456147d3dc8a48942d4713f1904e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7f82cf846c0998d4abf041dcd42224a6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1676,7 +1676,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 745.2367, y: 745.2367}
+  m_SizeDelta: {x: 1353.144, y: 761.144}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367784731341331
 CanvasRenderer:
@@ -1706,7 +1706,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: df7bf39fcc7c1d04391cb40a6819d200, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d820199261972214381cbf11f4fe6655, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1729,7 +1729,7 @@ GameObject:
   - component: {fileID: 4359367784930149007}
   - component: {fileID: 4359367784930149004}
   m_Layer: 0
-  m_Name: Cartel inicial Genuine
+  m_Name: Artesano
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1820,7 +1820,7 @@ GameObject:
   - component: {fileID: 4359367785020145647}
   - component: {fileID: 4359367785020145633}
   m_Layer: 0
-  m_Name: Mesa de trabajo 5
+  m_Name: Productos Virtuales
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1882,12 +1882,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c96bf1f87b2d10f409c27a9573dc4141, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 33f104bf4ccb60f45824cb47218157f7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.13, y: 7.58}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1982,7 +1982,7 @@ GameObject:
   - component: {fileID: 4359367785110407959}
   - component: {fileID: 4359367785110408041}
   m_Layer: 0
-  m_Name: El Burro y el Pozo
+  m_Name: Cola Larga
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2044,12 +2044,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: de14311dd312db849b42fb148e9ab81d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d5519ee659ced8341b4560994fff89bc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 7.57, y: 5.73}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2436,7 +2436,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 611.5996, y: 756.2683}
+  m_SizeDelta: {x: 1325.686, y: 745.698}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367785201453888
 CanvasRenderer:
@@ -2466,7 +2466,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 0a355c1638fce8a4c85fda87fd6fed90, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f6f23764af26594a93d99bb77337627, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2489,7 +2489,7 @@ GameObject:
   - component: {fileID: 4359367785244714098}
   - component: {fileID: 4359367785244714100}
   m_Layer: 0
-  m_Name: Mesa de trabajo 1 (2)
+  m_Name: Franquicia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2551,12 +2551,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 7a2ae0f411b4a8e4a9d330b508529547, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3320212868209994ca1fd7d64c47d1b3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.13, y: 7.58}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2651,7 +2651,7 @@ GameObject:
   - component: {fileID: 4359367785279704640}
   - component: {fileID: 4359367785279704642}
   m_Layer: 0
-  m_Name: Cartel inicial Genuine
+  m_Name: Artesano
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2713,12 +2713,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: fb358990c4b4e1e45a22e2cdf8e53ff0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 6909808bfa7f57147ac0baf62f9bf269, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 8.99, y: 6.36}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2813,7 +2813,7 @@ GameObject:
   - component: {fileID: 4359367785305445043}
   - component: {fileID: 4359367785305445040}
   m_Layer: 0
-  m_Name: Mesa de trabajo 1 (2)
+  m_Name: Franquicia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2968,7 +2968,7 @@ GameObject:
   - component: {fileID: 4359367785515291080}
   - component: {fileID: 4359367785515291081}
   m_Layer: 0
-  m_Name: Mesa de trabajo 7
+  m_Name: Tema 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3059,7 +3059,7 @@ GameObject:
   - component: {fileID: 4359367785533952024}
   - component: {fileID: 4359367785533952026}
   m_Layer: 0
-  m_Name: Mesa de trabajo 3 (1)
+  m_Name: Freemiun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3121,12 +3121,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 302f581662d83c044b01eea00c83ffd6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 348b88450c1cdaf4881a2e509557c769, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.14, y: 7.58}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3221,7 +3221,7 @@ GameObject:
   - component: {fileID: 4359367785580878727}
   - component: {fileID: 4359367785580878724}
   m_Layer: 0
-  m_Name: Mesa de trabajo 8 (1)
+  m_Name: VirusLetal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3312,7 +3312,7 @@ GameObject:
   - component: {fileID: 4359367785626730276}
   - component: {fileID: 4359367785626730278}
   m_Layer: 0
-  m_Name: Artboard 1 (3)
+  m_Name: "Afiliaci\xF3n"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3374,12 +3374,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a349e3a99d4659a4682ffcf55b357351, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 738ea822103a699428baeacd52907107, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5, y: 5}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3474,7 +3474,7 @@ GameObject:
   - component: {fileID: 4359367785640270025}
   - component: {fileID: 4359367785640270027}
   m_Layer: 0
-  m_Name: Mesa de trabajo 1 (1)
+  m_Name: EyenBalls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3536,12 +3536,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: df7bf39fcc7c1d04391cb40a6819d200, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d820199261972214381cbf11f4fe6655, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 10.24, y: 10.24}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3670,7 +3670,7 @@ GameObject:
   - component: {fileID: 4359367785792368253}
   - component: {fileID: 4359367785792368255}
   m_Layer: 0
-  m_Name: Mesa de trabajo 4 (2)
+  m_Name: PostVenta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3732,12 +3732,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a3e3e425584bde24f99954dfc9ee4b0b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a7fce4e3880411b4ba68b3024d1c746c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 6.13, y: 7.58}
+  m_Size: {x: 10.24, y: 5.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -3855,7 +3855,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 613, y: 758}
+  m_SizeDelta: {x: 1341.02, y: 754.324}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &4359367785804919715
 CanvasRenderer:
@@ -3885,7 +3885,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a3e3e425584bde24f99954dfc9ee4b0b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a7fce4e3880411b4ba68b3024d1c746c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3908,7 +3908,7 @@ GameObject:
   - component: {fileID: 4359367785823215008}
   - component: {fileID: 4359367785823215009}
   m_Layer: 0
-  m_Name: Mesa de trabajo 4 (2)
+  m_Name: PostVenta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
