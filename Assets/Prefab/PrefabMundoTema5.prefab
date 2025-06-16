@@ -3989,7 +3989,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8729320200831786230}
   m_Layer: 0
-  m_Name: PrefabMundo
+  m_Name: PrefabMundoTema5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5664,7 +5664,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 1
   version: 2
-  questName: Subsala 5
+  questName: Tema 5
   description: Realiza las actividades
   startAutomatically: 1
   saveUserProgress: 0
